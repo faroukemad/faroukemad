@@ -29,4 +29,6 @@
 <!--     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br> -->
 </div>
 
-
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YourGitHub]&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
+</div>
