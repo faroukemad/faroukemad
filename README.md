@@ -22,7 +22,7 @@
 
  <hr/>
  
-<h2 align="center">TECHNICAL SKILLS</h2>
+<h2 align="center">Languages and Tools</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,git,javascript,typescript,mysql,sass,jquery,npm,yarn" />
