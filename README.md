@@ -5,7 +5,6 @@
 
 <h3 align="center">A passionate Front-End developer from Egypt</h3>
 
-<br/>
 
  
 <div align="center"> 
@@ -20,7 +19,6 @@
   </a>
 </div>
 
- <hr/>
  
 <h2 align="center">Languages and Tools</h2>
 <br/>
